@@ -1,5 +1,5 @@
 # My data scienist projects
-From the [Veresbox edition](https://veresbox.ru/pizza/) [pic](https://github.com/Shch88/sf_data_scince/IMG_3055.PNG)
+From the [Veresbox edition](https://veresbox.ru/pizza/) [pic](https://github.com/Shch88/sf_data_scince/blob/main/IMG_3055.PNG)
 
 ## Проекты
 
