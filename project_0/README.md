@@ -11,7 +11,7 @@
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up [к оглавлению](https://github.com/Shch88/sf_data_scince/tree/main/project_0/README.md#Оглавление)
+&uarr; [к оглавлению](https://github.com/Shch88/sf_data_scince/tree/main/project_0/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -31,4 +31,4 @@
 ### Краткая информация о данных
 .....
 
-:arrow_up [к оглавлению](https://github.com/Shch88/sf_data_scince/tree/main/project_0/README.md#Оглавление)
+&uarr; [к оглавлению](https://github.com/Shch88/sf_data_scince/tree/main/project_0/README.md#Оглавление)
